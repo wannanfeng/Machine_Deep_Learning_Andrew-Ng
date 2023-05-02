@@ -1,5 +1,5 @@
 # Machine_Learning_Andrew-Ng
-吴恩达的机器学习课程的一些笔记(纯新手)
+(纯新手)吴恩达的机器学习课程的一些笔记
 
 Some notes from Andrew Ng's machine learning course 
 
